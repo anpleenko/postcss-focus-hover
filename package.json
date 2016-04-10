@@ -1,0 +1,22 @@
+{
+    "name":"postcss-focus-hover",
+    "version":"0.0.1",
+    "description":"small postcss plugin",
+    "main":"index.js",
+    "scripts":{
+        "test":"echo \"Error: no test specified\" && exit 1"
+    },
+    "repository":{
+        "type":"git",
+        "url":"git+https://github.com/vaeum/postcss-focus-hover.git"
+    },
+    "author":"vaeum",
+    "license":"MIT",
+    "bugs":{
+        "url":"https://github.com/vaeum/postcss-focus-hover/issues"
+    },
+    "homepage":"https://github.com/vaeum/postcss-focus-hover#readme",
+    "dependencies":{
+        "postcss":"^5.0.2"
+    }
+}
